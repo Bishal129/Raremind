@@ -1,3 +1,3 @@
 # Raremind
 
-# Editing
+# Learning
