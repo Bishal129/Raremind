@@ -1,3 +1,0 @@
-# Raremind
-
-# Learning
